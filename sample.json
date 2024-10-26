@@ -1,0 +1,20 @@
+[
+  {
+    "movie_id": "985",
+    "revenue":  7000000,
+    "title": "Eraserhead",
+    "avg_rating": 3.42,
+    "genre": ["Drama", "Fantasy", "Horror", "Science Fiction"],
+    "budget": 10000,
+    "director": ["David Lynch-5602"]
+  },
+  {
+    "movie_id": "692",
+    "revenue":  6000000,
+    "title": "Pink Flamingos",
+    "avg_rating": 2.34,
+    "genre": ["Horror", "Comedy", "Crime"],
+    "budget": 12000,
+    "director": ["John Waters-10367"]
+  }
+]
